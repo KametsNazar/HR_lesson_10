@@ -90,7 +90,16 @@ textarea {
 	color: #b6b7b9;
 	margin-top: 25px;
 	margin-bottom: inherit;
+	text-decoration: none;
+}
 
+.stylesheet_p a{
+	text-decoration: none;
+	color:#e52e66;
+}
+
+.stylesheet_p a:hover{
+	text-decoration: underline;
 }
 
 .style_fn{
